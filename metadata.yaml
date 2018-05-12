@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7828'
     url: http://www.gutenberg.org/2009/agents/7828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18133#La-cath-drale-de-Strasbourg-pendant-la-R-volution.--1789-1802-
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2006-04-09'
 gutenberg_type: Text
